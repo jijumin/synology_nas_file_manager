@@ -1,6 +1,9 @@
 # 群辉NAS文件管理器
 
 一个基于Python和tkinter开发的群辉NAS文件管理应用程序，支持通过群辉API进行文件浏览、上传等操作。
+<img width="1202" height="832" alt="image" src="https://github.com/user-attachments/assets/d6f75f69-f4e2-4a5b-aa43-41968e0592eb" />
+<img width="1370" height="918" alt="image" src="https://github.com/user-attachments/assets/16d5dfa2-c5f6-4f78-8c38-12ccfa3d5a0b" />
+
 
 ## 功能特性
 
